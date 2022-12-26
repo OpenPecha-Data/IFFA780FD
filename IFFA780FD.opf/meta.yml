@@ -1,0 +1,46 @@
+id: IFFA780FD
+ocr_import_info:
+  timestamp: '2022-12-26T15:12:48.399236+00:00'
+  ocr_engine: GoogleVisionEngine
+  ocr_model_type: builtin/weekly
+  ocr_lang_hint: ''
+  software_id: ocr-pipelines@v0.1.7
+  sponsor: OpenPecha
+  sponsor_consent: true
+  op_import_options: {}
+  op_import_version: 0.9.18
+default_language: bo
+source: https://library.bdrc.io
+initial_creation_type: ocr
+imported: 2022-12-26 15:13:09.007848+00:00
+last_modified: 2022-12-26 15:13:09.007855+00:00
+source_metadata:
+  id: http://purl.bdrc.io/resource/W1KG12429
+  status: http://purl.bdrc.io/admindata/StatusReleased
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  reproduction_of: http://purl.bdrc.io/resource/MW1KG12429
+  copyright_status: http://purl.bdrc.io/resource/CopyrightPublicDomain
+  title: ལེགས་བཤད་ལྗོན་དབང་དང་རྟགས་འཇུག་དཀའ་གནད་གསལ་བའི་མེ་ལོང་།
+  languages:
+  - bo
+  author: དངུལ་ཆུ་དབྱངས་ཅན་གྲུབ་པའི་རྡོ་རྗེ།
+statistics:
+  ocr_word_mean_confidence_index: 0.956627541314554
+  ocr_word_median_confidence_index: 0.9999504
+bases:
+  I1KG12460:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1KG12460
+      total_pages: 21
+      volume_number: 1
+      volume_pages_bdrc_intro: 2
+    order: 1
+    base_file: I1KG12460.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.9999504
+      ocr_word_mean_confidence_index: 0.956627541314554
+copyright:
+  status: Public domain
+  notice: Public domain
+  info_url: https://creativecommons.org/publicdomain/mark/1.0/
+license: CC0
